@@ -1,0 +1,7 @@
+/home/micheleunipr/Unipr/Visione_Artificiale/Lab/L05-edges/build/CMakeFiles/edge.dir
+/home/micheleunipr/Unipr/Visione_Artificiale/Lab/L05-edges/build/CMakeFiles/edit_cache.dir
+/home/micheleunipr/Unipr/Visione_Artificiale/Lab/L05-edges/build/CMakeFiles/rebuild_cache.dir
+/home/micheleunipr/Unipr/Visione_Artificiale/Lab/L05-edges/build/CMakeFiles/list_install_components.dir
+/home/micheleunipr/Unipr/Visione_Artificiale/Lab/L05-edges/build/CMakeFiles/install.dir
+/home/micheleunipr/Unipr/Visione_Artificiale/Lab/L05-edges/build/CMakeFiles/install/local.dir
+/home/micheleunipr/Unipr/Visione_Artificiale/Lab/L05-edges/build/CMakeFiles/install/strip.dir

@@ -1,0 +1,7 @@
+/home/micheleunipr/Unipr/Visione_Artificiale/Lab/SIFT/build/CMakeFiles/simple.dir
+/home/micheleunipr/Unipr/Visione_Artificiale/Lab/SIFT/build/CMakeFiles/edit_cache.dir
+/home/micheleunipr/Unipr/Visione_Artificiale/Lab/SIFT/build/CMakeFiles/rebuild_cache.dir
+/home/micheleunipr/Unipr/Visione_Artificiale/Lab/SIFT/build/CMakeFiles/list_install_components.dir
+/home/micheleunipr/Unipr/Visione_Artificiale/Lab/SIFT/build/CMakeFiles/install.dir
+/home/micheleunipr/Unipr/Visione_Artificiale/Lab/SIFT/build/CMakeFiles/install/local.dir
+/home/micheleunipr/Unipr/Visione_Artificiale/Lab/SIFT/build/CMakeFiles/install/strip.dir

@@ -1,0 +1,7 @@
+/home/micheleunipr/Unipr/Visione_Artificiale/Lab/L06-pinhole/build/CMakeFiles/pinhole_camera.dir
+/home/micheleunipr/Unipr/Visione_Artificiale/Lab/L06-pinhole/build/CMakeFiles/edit_cache.dir
+/home/micheleunipr/Unipr/Visione_Artificiale/Lab/L06-pinhole/build/CMakeFiles/rebuild_cache.dir
+/home/micheleunipr/Unipr/Visione_Artificiale/Lab/L06-pinhole/build/CMakeFiles/list_install_components.dir
+/home/micheleunipr/Unipr/Visione_Artificiale/Lab/L06-pinhole/build/CMakeFiles/install.dir
+/home/micheleunipr/Unipr/Visione_Artificiale/Lab/L06-pinhole/build/CMakeFiles/install/local.dir
+/home/micheleunipr/Unipr/Visione_Artificiale/Lab/L06-pinhole/build/CMakeFiles/install/strip.dir

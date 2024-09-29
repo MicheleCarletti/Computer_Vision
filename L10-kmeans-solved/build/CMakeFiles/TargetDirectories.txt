@@ -1,0 +1,7 @@
+/home/micheleunipr/Unipr/Visione_Artificiale/Lab/L10-kmeans-solved/build/CMakeFiles/kmeans.dir
+/home/micheleunipr/Unipr/Visione_Artificiale/Lab/L10-kmeans-solved/build/CMakeFiles/edit_cache.dir
+/home/micheleunipr/Unipr/Visione_Artificiale/Lab/L10-kmeans-solved/build/CMakeFiles/rebuild_cache.dir
+/home/micheleunipr/Unipr/Visione_Artificiale/Lab/L10-kmeans-solved/build/CMakeFiles/list_install_components.dir
+/home/micheleunipr/Unipr/Visione_Artificiale/Lab/L10-kmeans-solved/build/CMakeFiles/install.dir
+/home/micheleunipr/Unipr/Visione_Artificiale/Lab/L10-kmeans-solved/build/CMakeFiles/install/local.dir
+/home/micheleunipr/Unipr/Visione_Artificiale/Lab/L10-kmeans-solved/build/CMakeFiles/install/strip.dir

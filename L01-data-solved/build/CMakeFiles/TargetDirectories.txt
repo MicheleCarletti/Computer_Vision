@@ -1,0 +1,7 @@
+/home/micheleunipr/Unipr/Visione_Artificiale/Lab/L01-data-solved/build/CMakeFiles/l01.dir
+/home/micheleunipr/Unipr/Visione_Artificiale/Lab/L01-data-solved/build/CMakeFiles/edit_cache.dir
+/home/micheleunipr/Unipr/Visione_Artificiale/Lab/L01-data-solved/build/CMakeFiles/rebuild_cache.dir
+/home/micheleunipr/Unipr/Visione_Artificiale/Lab/L01-data-solved/build/CMakeFiles/list_install_components.dir
+/home/micheleunipr/Unipr/Visione_Artificiale/Lab/L01-data-solved/build/CMakeFiles/install.dir
+/home/micheleunipr/Unipr/Visione_Artificiale/Lab/L01-data-solved/build/CMakeFiles/install/local.dir
+/home/micheleunipr/Unipr/Visione_Artificiale/Lab/L01-data-solved/build/CMakeFiles/install/strip.dir

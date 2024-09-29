@@ -1,0 +1,75 @@
+In file included from /usr/include/eigen3/Eigen/Core:276,
+                 from /home/micheleunipr/Unipr/Visione_Artificiale/Lab/L06-pinhole/main.cpp:10:
+/usr/include/eigen3/Eigen/src/Core/Product.h: In instantiation of ‘struct Eigen::internal::traits<Eigen::Product<Eigen::Matrix<float, 3, 4>, Eigen::Matrix<double, 3, 1>, 0> >’:
+/usr/include/eigen3/Eigen/src/Core/Product.h:120:7:   required from ‘class Eigen::internal::dense_product_base<Eigen::Matrix<float, 3, 4>, Eigen::Matrix<double, 3, 1>, 0, 3>’
+/usr/include/eigen3/Eigen/src/Core/Product.h:152:7:   required from ‘class Eigen::ProductImpl<Eigen::Matrix<float, 3, 4>, Eigen::Matrix<double, 3, 1>, 0, Eigen::Dense>’
+/usr/include/eigen3/Eigen/src/Core/Product.h:71:7:   required from ‘class Eigen::Product<Eigen::Matrix<float, 3, 4>, Eigen::Matrix<double, 3, 1>, 0>’
+/home/micheleunipr/Unipr/Visione_Artificiale/Lab/L06-pinhole/main.cpp:160:10:   required from here
+/usr/include/eigen3/Eigen/src/Core/Product.h:29:127: error: no type named ‘ReturnType’ in ‘struct Eigen::ScalarBinaryOpTraits<float, double, Eigen::internal::scalar_product_op<float, double> >’
+   29 |   typedef typename ScalarBinaryOpTraits<typename traits<LhsCleaned>::Scalar, typename traits<RhsCleaned>::Scalar>::ReturnType Scalar;
+      |                                                                                                                               ^~~~~~
+In file included from /usr/include/eigen3/Eigen/Core:272,
+                 from /home/micheleunipr/Unipr/Visione_Artificiale/Lab/L06-pinhole/main.cpp:10:
+/usr/include/eigen3/Eigen/src/Core/DenseBase.h: In instantiation of ‘class Eigen::DenseBase<Eigen::Product<Eigen::Matrix<float, 3, 4>, Eigen::Matrix<double, 3, 1>, 0> >’:
+/usr/include/eigen3/Eigen/src/Core/MatrixBase.h:48:34:   required from ‘class Eigen::MatrixBase<Eigen::Product<Eigen::Matrix<float, 3, 4>, Eigen::Matrix<double, 3, 1>, 0> >’
+/usr/include/eigen3/Eigen/src/Core/Product.h:120:7:   required from ‘class Eigen::internal::dense_product_base<Eigen::Matrix<float, 3, 4>, Eigen::Matrix<double, 3, 1>, 0, 3>’
+/usr/include/eigen3/Eigen/src/Core/Product.h:152:7:   required from ‘class Eigen::ProductImpl<Eigen::Matrix<float, 3, 4>, Eigen::Matrix<double, 3, 1>, 0, Eigen::Dense>’
+/usr/include/eigen3/Eigen/src/Core/Product.h:71:7:   required from ‘class Eigen::Product<Eigen::Matrix<float, 3, 4>, Eigen::Matrix<double, 3, 1>, 0>’
+/home/micheleunipr/Unipr/Visione_Artificiale/Lab/L06-pinhole/main.cpp:160:10:   required from here
+/usr/include/eigen3/Eigen/src/Core/DenseBase.h:83:17: error: ‘coeff’ has not been declared in ‘Eigen::DenseBase<Eigen::Product<Eigen::Matrix<float, 3, 4>, Eigen::Matrix<double, 3, 1>, 0> >::Base’
+   83 |     using Base::coeff;
+      |                 ^~~~~
+/usr/include/eigen3/Eigen/src/Core/DenseBase.h:84:17: error: ‘coeffByOuterInner’ has not been declared in ‘Eigen::DenseBase<Eigen::Product<Eigen::Matrix<float, 3, 4>, Eigen::Matrix<double, 3, 1>, 0> >::Base’
+   84 |     using Base::coeffByOuterInner;
+      |                 ^~~~~~~~~~~~~~~~~
+/usr/include/eigen3/Eigen/src/Core/DenseBase.h:85:26: error: ‘operator()’ has not been declared in ‘Eigen::DenseBase<Eigen::Product<Eigen::Matrix<float, 3, 4>, Eigen::Matrix<double, 3, 1>, 0> >::Base’
+   85 |     using Base::operator();
+      |                          ^
+/usr/include/eigen3/Eigen/src/Core/DenseBase.h:86:26: error: ‘operator[]’ has not been declared in ‘Eigen::DenseBase<Eigen::Product<Eigen::Matrix<float, 3, 4>, Eigen::Matrix<double, 3, 1>, 0> >::Base’
+   86 |     using Base::operator[];
+      |                          ^
+/usr/include/eigen3/Eigen/src/Core/DenseBase.h:87:17: error: ‘x’ has not been declared in ‘Eigen::DenseBase<Eigen::Product<Eigen::Matrix<float, 3, 4>, Eigen::Matrix<double, 3, 1>, 0> >::Base’
+   87 |     using Base::x;
+      |                 ^
+/usr/include/eigen3/Eigen/src/Core/DenseBase.h:88:17: error: ‘y’ has not been declared in ‘Eigen::DenseBase<Eigen::Product<Eigen::Matrix<float, 3, 4>, Eigen::Matrix<double, 3, 1>, 0> >::Base’
+   88 |     using Base::y;
+      |                 ^
+/usr/include/eigen3/Eigen/src/Core/DenseBase.h:89:17: error: ‘z’ has not been declared in ‘Eigen::DenseBase<Eigen::Product<Eigen::Matrix<float, 3, 4>, Eigen::Matrix<double, 3, 1>, 0> >::Base’
+   89 |     using Base::z;
+      |                 ^
+/usr/include/eigen3/Eigen/src/Core/DenseBase.h:90:17: error: ‘w’ has not been declared in ‘Eigen::DenseBase<Eigen::Product<Eigen::Matrix<float, 3, 4>, Eigen::Matrix<double, 3, 1>, 0> >::Base’
+   90 |     using Base::w;
+      |                 ^
+In file included from /usr/include/eigen3/Eigen/Core:273,
+                 from /home/micheleunipr/Unipr/Visione_Artificiale/Lab/L06-pinhole/main.cpp:10:
+/usr/include/eigen3/Eigen/src/Core/MatrixBase.h: In instantiation of ‘class Eigen::MatrixBase<Eigen::Product<Eigen::Matrix<float, 3, 4>, Eigen::Matrix<double, 3, 1>, 0> >’:
+/usr/include/eigen3/Eigen/src/Core/Product.h:120:7:   required from ‘class Eigen::internal::dense_product_base<Eigen::Matrix<float, 3, 4>, Eigen::Matrix<double, 3, 1>, 0, 3>’
+/usr/include/eigen3/Eigen/src/Core/Product.h:152:7:   required from ‘class Eigen::ProductImpl<Eigen::Matrix<float, 3, 4>, Eigen::Matrix<double, 3, 1>, 0, Eigen::Dense>’
+/usr/include/eigen3/Eigen/src/Core/Product.h:71:7:   required from ‘class Eigen::Product<Eigen::Matrix<float, 3, 4>, Eigen::Matrix<double, 3, 1>, 0>’
+/home/micheleunipr/Unipr/Visione_Artificiale/Lab/L06-pinhole/main.cpp:160:10:   required from here
+/usr/include/eigen3/Eigen/src/Core/MatrixBase.h:75:17: error: ‘coeff’ has not been declared in ‘Eigen::MatrixBase<Eigen::Product<Eigen::Matrix<float, 3, 4>, Eigen::Matrix<double, 3, 1>, 0> >::Base’
+   75 |     using Base::coeff;
+      |                 ^~~~~
+/usr/include/eigen3/Eigen/src/Core/MatrixBase.h:78:17: error: ‘eval’ has not been declared in ‘Eigen::MatrixBase<Eigen::Product<Eigen::Matrix<float, 3, 4>, Eigen::Matrix<double, 3, 1>, 0> >::Base’
+   78 |     using Base::eval;
+      |                 ^~~~
+/usr/include/eigen3/Eigen/src/Core/MatrixBase.h:79:25: error: ‘operator-’ has not been declared in ‘Eigen::MatrixBase<Eigen::Product<Eigen::Matrix<float, 3, 4>, Eigen::Matrix<double, 3, 1>, 0> >::Base’
+   79 |     using Base::operator-;
+      |                         ^
+/usr/include/eigen3/Eigen/src/Core/MatrixBase.h:82:25: error: ‘operator*=’ has not been declared in ‘Eigen::MatrixBase<Eigen::Product<Eigen::Matrix<float, 3, 4>, Eigen::Matrix<double, 3, 1>, 0> >::Base’
+   82 |     using Base::operator*=;
+      |                         ^~
+/usr/include/eigen3/Eigen/src/Core/MatrixBase.h:83:25: error: ‘operator/=’ has not been declared in ‘Eigen::MatrixBase<Eigen::Product<Eigen::Matrix<float, 3, 4>, Eigen::Matrix<double, 3, 1>, 0> >::Base’
+   83 |     using Base::operator/=;
+      |                         ^~
+In file included from /usr/include/eigen3/Eigen/Core:164,
+                 from /home/micheleunipr/Unipr/Visione_Artificiale/Lab/L06-pinhole/main.cpp:10:
+/usr/include/eigen3/Eigen/src/Core/GeneralProduct.h: In instantiation of ‘const Eigen::Product<Derived, OtherDerived> Eigen::MatrixBase<Derived>::operator*(const Eigen::MatrixBase<OtherDerived>&) const [with OtherDerived = Eigen::Matrix<double, 3, 1>; Derived = Eigen::Matrix<float, 3, 4>]’:
+/home/micheleunipr/Unipr/Visione_Artificiale/Lab/L06-pinhole/main.cpp:160:10:   required from here
+/usr/include/eigen3/Eigen/src/Core/GeneralProduct.h:419:3: error: static assertion failed: INVALID_MATRIX_PRODUCT
+  419 |   EIGEN_STATIC_ASSERT(ProductIsValid || SameSizes, INVALID_MATRIX_PRODUCT)
+      |   ^~~~~~~~~~~~~~~~~~~
+/usr/include/eigen3/Eigen/src/Core/GeneralProduct.h:419:3: note: ‘(false || false)’ evaluates to false
+make[2]: *** [CMakeFiles/lab4.dir/build.make:76: CMakeFiles/lab4.dir/main.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:83: CMakeFiles/lab4.dir/all] Error 2
+make: *** [Makefile:136: all] Error 2
